@@ -12,5 +12,5 @@
 <img width="1230" height="765" alt="image" src="https://github.com/user-attachments/assets/61121d7d-90b8-421d-abe7-e5f844dcc1e7" />
 
 ## Note
-It is generated in easyedt SOFTWARE
+It is generated in easyeda SOFTWARE
 
