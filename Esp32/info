@@ -1,0 +1,1025 @@
+{
+  "uuid": "0a60cd7372f56cf7adf99a94b0aa9a19",
+  "path": "Offline/Esp32",
+  "name": "Esp32",
+  "content": "",
+  "created_at": "2026-04-18 19:05:37",
+  "updated_at": "2026-04-19 00:09:11",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "303fe7ebd9f6c8d781e483b5a06d7d9f",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1a3916d028894e75871e0059231468e6": 1,
+        "736876f24b5b418d94baa3b17df427eb": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 8,
+        "ba1f207f2c0447edbd5beb657b435022": 1,
+        "bb009484ef804a24ac5d18c54b249586": 14,
+        "45aa9db41fe55f139f756074a7ef37a0": 1,
+        "7f7e25e4080c4d5ea6b7eb27c71d581e": 2,
+        "520b61874f0d49cc811833c5a7b143c2": 1,
+        "94c9112444f9419d9c49eadf9a11d9e6": 1,
+        "07aa0976f72c4cc0978a337162a4455b": 1,
+        "da589dd2a0454c0e8451fef126ac0cae": 2,
+        "02aff2ff6e514454bd8e9eaa83aa0cc7": 3,
+        "66d2363689db4ef7b207c436d58f7ddc": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uF",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7uF",
+          1,
+          "C0603",
+          "C3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100nF",
+          9,
+          "C0603",
+          "C4,C6,C7,C8,C9,C10,C11,C12,C13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LESD5D5.0CT1G",
+          3,
+          "SOD-523_L1.2-W0.8-LS1.6-BI",
+          "D1,D2,D3",
+          {
+            "Manufacturer Part": "LESD5D5.0CT1G",
+            "Manufacturer": "LRC(乐山无线电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C383211"
+          }
+        ],
+        [
+          "210-1S-1*3Ppin Gold-plated",
+          1,
+          "HDR-TH_3P-P1.27-V-M-1",
+          "H1",
+          {
+            "Manufacturer Part": "B-2101S03P-A110",
+            "Manufacturer": "Ckmtw(灿科盟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124354"
+          }
+        ],
+        [
+          "DZ127R-11-02-25",
+          1,
+          "HDR-TH_2P-P1.27-V-M",
+          "H2",
+          {
+            "Manufacturer Part": "DZ127R-11-02-25",
+            "Manufacturer": "DEALON(德艺隆)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2935942"
+          }
+        ],
+        [
+          "X6511WV-17H-C30D60",
+          2,
+          "HDR-TH_17P-P2.54-V-M",
+          "H3,H4",
+          {
+            "Manufacturer Part": "X6511WV-17H-C60D30",
+            "Manufacturer": "XKB Connection(中国星坤)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C725949"
+          }
+        ],
+        [
+          "LED-0805_G",
+          1,
+          "LED0805_GREEN",
+          "LED1",
+          {
+            "Manufacturer Part": "NCD0805G1",
+            "Manufacturer": "国星光电",
+            "Supplier": "",
+            "Supplier Part": "C84260"
+          }
+        ],
+        [
+          "FC-2012HRK-620D",
+          1,
+          "LED0805-RD",
+          "LED2",
+          {
+            "Manufacturer Part": "NCD0805R1",
+            "Manufacturer": "国星光电",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84256"
+          }
+        ],
+        [
+          "SS8050-G",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q1,Q2",
+          {
+            "Manufacturer Part": "SS8050-G(RANGE:120-200)",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C164886"
+          }
+        ],
+        [
+          "2N7002T-7-F",
+          2,
+          "SOT-523-3_L1.6-W0.8-P1.00-LS1.6-BR",
+          "Q3,Q4",
+          {
+            "Manufacturer Part": "2N7002T-7-F",
+            "Manufacturer": "DIODES(美台)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C139445"
+          }
+        ],
+        [
+          "5.1kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "560Ω",
+          1,
+          "R0603",
+          "R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0Ω",
+          2,
+          "R0603",
+          "R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10kΩ",
+          5,
+          "R0603",
+          "R5,R6,R10,R14,R15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22.1kΩ",
+          1,
+          "R0603",
+          "R7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "47.5kΩ",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1kΩ",
+          2,
+          "R0603",
+          "R9,R13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R11,R12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PTS645SH50SMTR92LFS",
+          2,
+          "KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.0",
+          "SW1,SW2",
+          {
+            "Manufacturer Part": "PTS645SH50SMTR92LFS",
+            "Manufacturer": "C&K",
+            "Supplier": "LCSC",
+            "Supplier Part": "C221869"
+          }
+        ],
+        [
+          "AMS1117-3.3_C347222",
+          1,
+          "SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR",
+          "U1",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "UMW(友台半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C347222"
+          }
+        ],
+        [
+          "CP2102N-A02-GQFN28R",
+          1,
+          "QFN-28_L5.0-W5.0-P0.50-TL-EP3.3",
+          "U2",
+          {
+            "Manufacturer Part": "CP2102N-A02-GQFN28R",
+            "Manufacturer": "SKYWORKS/SILICON LABS(芯科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C964632"
+          }
+        ],
+        [
+          "ESP32-WROOM-32E(8MB)",
+          1,
+          "WIFI-SMD_ESP32-WROOM-32E",
+          "U3",
+          {
+            "Manufacturer Part": "ESP32-WROOM-32E-N8",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C701342"
+          }
+        ],
+        [
+          "105017-0001",
+          1,
+          "MICRO-USB-SMD_105017-0001",
+          "USB1",
+          {
+            "Manufacturer Part": "1050170001",
+            "Manufacturer": "MOLEX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C136000"
+          }
+        ]
+      ],
+      "updateTime": 1776532121,
+      "createTime": 1776518437,
+      "histories": [],
+      "created_at": "2026-04-18 19:05:37",
+      "updated_at": "2026-04-18 22:53:41"
+    },
+    {
+      "uuid": "09fa08d9f8b1d336ad52b5d8f24df8e8",
+      "title": "Sheet_2",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0563abaf02fc4d4b99de8bab7b9949bf": 2,
+        "bb009484ef804a24ac5d18c54b249586": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 5,
+        "eefb64cde0c241eb904b33bbb6ff46c8": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uF",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7uF",
+          1,
+          "C0603",
+          "C3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100nF",
+          9,
+          "C0603",
+          "C4,C6,C7,C8,C9,C10,C11,C12,C13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LESD5D5.0CT1G",
+          3,
+          "SOD-523_L1.2-W0.8-LS1.6-BI",
+          "D1,D2,D3",
+          {
+            "Manufacturer Part": "LESD5D5.0CT1G",
+            "Manufacturer": "LRC(乐山无线电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C383211"
+          }
+        ],
+        [
+          "210-1S-1*3Ppin Gold-plated",
+          1,
+          "HDR-TH_3P-P1.27-V-M-1",
+          "H1",
+          {
+            "Manufacturer Part": "B-2101S03P-A110",
+            "Manufacturer": "Ckmtw(灿科盟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124354"
+          }
+        ],
+        [
+          "DZ127R-11-02-25",
+          1,
+          "HDR-TH_2P-P1.27-V-M",
+          "H2",
+          {
+            "Manufacturer Part": "DZ127R-11-02-25",
+            "Manufacturer": "DEALON(德艺隆)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2935942"
+          }
+        ],
+        [
+          "X6511WV-17H-C30D60",
+          2,
+          "HDR-TH_17P-P2.54-V-M",
+          "H3,H4",
+          {
+            "Manufacturer Part": "X6511WV-17H-C60D30",
+            "Manufacturer": "XKB Connection(中国星坤)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C725949"
+          }
+        ],
+        [
+          "LED-0805_G",
+          1,
+          "LED0805_GREEN",
+          "LED1",
+          {
+            "Manufacturer Part": "NCD0805G1",
+            "Manufacturer": "国星光电",
+            "Supplier": "",
+            "Supplier Part": "C84260"
+          }
+        ],
+        [
+          "FC-2012HRK-620D",
+          1,
+          "LED0805-RD",
+          "LED2",
+          {
+            "Manufacturer Part": "NCD0805R1",
+            "Manufacturer": "国星光电",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84256"
+          }
+        ],
+        [
+          "SS8050-G",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q1,Q2",
+          {
+            "Manufacturer Part": "SS8050-G(RANGE:120-200)",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C164886"
+          }
+        ],
+        [
+          "2N7002T-7-F",
+          2,
+          "SOT-523-3_L1.6-W0.8-P1.00-LS1.6-BR",
+          "Q3,Q4",
+          {
+            "Manufacturer Part": "2N7002T-7-F",
+            "Manufacturer": "DIODES(美台)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C139445"
+          }
+        ],
+        [
+          "5.1kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "560Ω",
+          1,
+          "R0603",
+          "R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0Ω",
+          2,
+          "R0603",
+          "R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10kΩ",
+          5,
+          "R0603",
+          "R5,R6,R10,R14,R15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22.1kΩ",
+          1,
+          "R0603",
+          "R7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "47.5kΩ",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1kΩ",
+          2,
+          "R0603",
+          "R9,R13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R11,R12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PTS645SH50SMTR92LFS",
+          2,
+          "KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.0",
+          "SW1,SW2",
+          {
+            "Manufacturer Part": "PTS645SH50SMTR92LFS",
+            "Manufacturer": "C&K",
+            "Supplier": "LCSC",
+            "Supplier Part": "C221869"
+          }
+        ],
+        [
+          "AMS1117-3.3_C347222",
+          1,
+          "SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR",
+          "U1",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "UMW(友台半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C347222"
+          }
+        ],
+        [
+          "CP2102N-A02-GQFN28R",
+          1,
+          "QFN-28_L5.0-W5.0-P0.50-TL-EP3.3",
+          "U2",
+          {
+            "Manufacturer Part": "CP2102N-A02-GQFN28R",
+            "Manufacturer": "SKYWORKS/SILICON LABS(芯科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C964632"
+          }
+        ],
+        [
+          "ESP32-WROOM-32E(8MB)",
+          1,
+          "WIFI-SMD_ESP32-WROOM-32E",
+          "U3",
+          {
+            "Manufacturer Part": "ESP32-WROOM-32E-N8",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C701342"
+          }
+        ],
+        [
+          "105017-0001",
+          1,
+          "MICRO-USB-SMD_105017-0001",
+          "USB1",
+          {
+            "Manufacturer Part": "1050170001",
+            "Manufacturer": "MOLEX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C136000"
+          }
+        ]
+      ],
+      "updateTime": 1776528220,
+      "createTime": 1776525945,
+      "histories": [],
+      "created_at": "2026-04-18 21:10:45",
+      "updated_at": "2026-04-18 21:48:40"
+    },
+    {
+      "uuid": "73b246c0e0343e16725561728f1248f1",
+      "puuid": "0a60cd7372f56cf7adf99a94b0aa9a19",
+      "title": "PCB_Esp32",
+      "filename": "PCB_Esp32.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 13,
+        "83d2c26c897548478611a7b637e39735": 3,
+        "4aedd9273b53440f9c9ef6a500aa4c27": 1,
+        "5d25056b053f43049cf80e680f29269c": 1,
+        "80e26fc211b74efa8639126edf3d337f": 2,
+        "df7b9c1c92a741e3a4e90f224547567e": 1,
+        "a267edbe7c3c4a16b85fd51e936458d0": 1,
+        "bade90667a6e4731855e9a223387b8a6": 2,
+        "ac772c61db684b6b87d94de5c318f06f": 2,
+        "398691f1f785460098bbe5ee6590333c": 15,
+        "6621ba9502e54f7ca3c917848586657c": 2,
+        "09952c2799c54b76904e264324ada8f3": 1,
+        "f604088b69b84166bf855f92092aa109": 1,
+        "febebcac3bf6481f9b9f64b8a412bfb8": 1,
+        "feca5de016994e80bda4909251e6a8d0": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uF",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7uF",
+          1,
+          "C0603",
+          "C3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100nF",
+          9,
+          "C0603",
+          "C4,C6,C7,C8,C9,C10,C11,C12,C13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LESD5D5.0CT1G",
+          3,
+          "SOD-523_L1.2-W0.8-LS1.6-BI",
+          "D1,D2,D3",
+          {
+            "Manufacturer Part": "LESD5D5.0CT1G",
+            "Manufacturer": "LRC(乐山无线电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C383211"
+          }
+        ],
+        [
+          "210-1S-1*3Ppin Gold-plated",
+          1,
+          "HDR-TH_3P-P1.27-V-M-1",
+          "H1",
+          {
+            "Manufacturer Part": "B-2101S03P-A110",
+            "Manufacturer": "Ckmtw(灿科盟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124354"
+          }
+        ],
+        [
+          "DZ127R-11-02-25",
+          1,
+          "HDR-TH_2P-P1.27-V-M",
+          "H2",
+          {
+            "Manufacturer Part": "DZ127R-11-02-25",
+            "Manufacturer": "DEALON(德艺隆)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2935942"
+          }
+        ],
+        [
+          "X6511WV-17H-C30D60",
+          2,
+          "HDR-TH_17P-P2.54-V-M",
+          "H3,H4",
+          {
+            "Manufacturer Part": "X6511WV-17H-C60D30",
+            "Manufacturer": "XKB Connection(中国星坤)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C725949"
+          }
+        ],
+        [
+          "LED-0805_G",
+          1,
+          "LED0805_GREEN",
+          "LED1",
+          {
+            "Manufacturer Part": "NCD0805G1",
+            "Manufacturer": "国星光电",
+            "Supplier": "",
+            "Supplier Part": "C84260"
+          }
+        ],
+        [
+          "FC-2012HRK-620D",
+          1,
+          "LED0805-RD",
+          "LED2",
+          {
+            "Manufacturer Part": "NCD0805R1",
+            "Manufacturer": "国星光电",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84256"
+          }
+        ],
+        [
+          "SS8050-G",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q1,Q2",
+          {
+            "Manufacturer Part": "SS8050-G(RANGE:120-200)",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C164886"
+          }
+        ],
+        [
+          "2N7002T-7-F",
+          2,
+          "SOT-523-3_L1.6-W0.8-P1.00-LS1.6-BR",
+          "Q3,Q4",
+          {
+            "Manufacturer Part": "2N7002T-7-F",
+            "Manufacturer": "DIODES(美台)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C139445"
+          }
+        ],
+        [
+          "5.1kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "560Ω",
+          1,
+          "R0603",
+          "R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0Ω",
+          2,
+          "R0603",
+          "R3,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10kΩ",
+          5,
+          "R0603",
+          "R5,R6,R10,R14,R15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22.1kΩ",
+          1,
+          "R0603",
+          "R7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "47.5kΩ",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1kΩ",
+          2,
+          "R0603",
+          "R9,R13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R11,R12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PTS645SH50SMTR92LFS",
+          2,
+          "KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.0",
+          "SW1,SW2",
+          {
+            "Manufacturer Part": "PTS645SH50SMTR92LFS",
+            "Manufacturer": "C&K",
+            "Supplier": "LCSC",
+            "Supplier Part": "C221869"
+          }
+        ],
+        [
+          "AMS1117-3.3_C347222",
+          1,
+          "SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR",
+          "U1",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "UMW(友台半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C347222"
+          }
+        ],
+        [
+          "CP2102N-A02-GQFN28R",
+          1,
+          "QFN-28_L5.0-W5.0-P0.50-TL-EP3.3",
+          "U2",
+          {
+            "Manufacturer Part": "CP2102N-A02-GQFN28R",
+            "Manufacturer": "SKYWORKS/SILICON LABS(芯科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C964632"
+          }
+        ],
+        [
+          "ESP32-WROOM-32E(8MB)",
+          1,
+          "WIFI-SMD_ESP32-WROOM-32E",
+          "U3",
+          {
+            "Manufacturer Part": "ESP32-WROOM-32E-N8",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C701342"
+          }
+        ],
+        [
+          "105017-0001",
+          1,
+          "MICRO-USB-SMD_105017-0001",
+          "USB1",
+          {
+            "Manufacturer Part": "1050170001",
+            "Manufacturer": "MOLEX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C136000"
+          }
+        ]
+      ],
+      "updateTime": 1776536651,
+      "createTime": 1776529956,
+      "histories": [],
+      "created_at": "2026-04-18 22:17:36",
+      "updated_at": "2026-04-19 00:09:11"
+    }
+  ],
+  "sort": [
+    "303fe7ebd9f6c8d781e483b5a06d7d9f",
+    "09fa08d9f8b1d336ad52b5d8f24df8e8"
+  ],
+  "title": "Esp32",
+  "foldername": "Esp32",
+  "schfilename": "Esp32.json",
+  "schfilemtime": 1776532121697
+}
